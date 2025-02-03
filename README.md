@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML related to element visibility.  The bug involves hiding an HTML element using JavaScript, but failing to reset its display property, making it persistently hidden even after intended actions. The solution provides a corrected version which addresses this issue and ensures correct display of the element.
